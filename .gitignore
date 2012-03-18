@@ -1,0 +1,10 @@
+# filses to ignore
+*.vi
+*~
+
+# Folders to ignore
+.hg
+.svn
+.CVS
+.idea
+
